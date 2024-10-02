@@ -12,4 +12,6 @@ dist/
 *.egg-info/
 
 *.py,cover
+
 secret.key
+passwords_encrypted.txt
